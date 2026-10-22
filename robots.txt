@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://URL-WEBSITE-KAMU/sitemap.xml
+Sitemap: https://ngumbah-omega.vercel.app/sitemap.xml
